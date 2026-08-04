@@ -10,7 +10,7 @@ The main task implemented by this repo is to source the specs and to render them
 
 The specs which are sourced and rendered are stored in separate repos, which are referenced, as submodules, inside the [specs/](https://github.com/companieshouse/dapperdox.developer.ch.gov.uk/tree/9571799d47f5cf0214ad06bf334e0272539a0bf2/specs) dir.
 
-Currently these 4:
+Currently, these 4:
 
 - https://github.com/companieshouse/api.ch.gov.uk-specifications
 - https://github.com/companieshouse/private.api.ch.gov.uk-specifications
